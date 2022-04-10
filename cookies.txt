@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+naftagaz.com	TRUE	/	FALSE	1999999999	PHPSESSID	oLzeI6WrzT73IZQo0Z6yoFRIJVUha6vz
+naftagaz.com	TRUE	/	FALSE	1999999999	BITRIX_SM_GUEST_ID	146133
+naftagaz.com	TRUE	/	FALSE	1999999999	BITRIX_SM_LAST_VISIT	11.04.2022%2004%3A28%3A25
+
